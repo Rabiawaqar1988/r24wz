@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "main": "index1.js",
+  "type": "module",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "name": "r24wz",
+  "version": "1.0.0",
+  "description": "convert currancy",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rabia waqar",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rabiawaqar1988/r24wz.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "bugs": {
+    "url": "https://github.com/Rabiawaqar1988/r24wz/issues"
+  },
+  "homepage": "https://github.com/Rabiawaqar1988/r24wz#readme"
+}
